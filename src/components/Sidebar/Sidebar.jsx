@@ -73,7 +73,3 @@ const Sidebar = ({ setMobileOpen }) => { /* accepting a prompt, we destructure i
 };
 
 export default Sidebar;
-
-// git
-// eh
-// x
