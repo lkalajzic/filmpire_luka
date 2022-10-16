@@ -23,7 +23,7 @@ export const fetchToken = async () => {
   }
 };
 
-export const getSessionId = async () => {
+export const createSessionId = async () => {
   const token = localStorage.getItem('request_token');
 
   if (token) {
